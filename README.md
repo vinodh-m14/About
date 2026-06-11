@@ -1,10 +1,21 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20👋,%20I'm%20Vinodh%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%26%20BI%20Tools%20Enthusiast&descAlignY=58&descSize=18&descColor=d0d7ff" />
+<!-- Animated Header using SVG -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinodh-m14/vinodh-m14/main/header_dark.svg">
+  <img alt="Hi 👋, I'm Vinodh M — Data Analyst | Python & BI Tools Enthusiast" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Vinodh%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%26%20BI%20Enthusiast&descAlignY=58&descSize=18&descColor=d0d7ff" />
+</picture>
+
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Vinodh M
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<h3>🎯 Data Analyst &nbsp;|&nbsp; Python & BI Tools Enthusiast &nbsp;|&nbsp; Bangalore, India 🇮🇳</h3>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst+%7C+9%2B+Months+Experience;Python+%7C+SQL+%7C+Power+BI+Expert;ETL+Pipelines+%7C+Dashboard+Builder;Turning+Raw+Data+into+Insights+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst+%7C+9%2B+Months+Experience;Python+%7C+SQL+%7C+Power+BI+Expert;ETL+Pipelines+%7C+Dashboard+Builder;Turning+Raw+Data+into+Insights+%F0%9F%93%88)](https://git.io/typing-svg)
 
 <br/>
 
@@ -252,6 +263,6 @@ print(me.current_focus())
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 
 </div>
